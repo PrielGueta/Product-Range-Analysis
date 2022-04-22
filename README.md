@@ -1,5 +1,6 @@
 # Product-Range-Analysis
 Our goal is to optimize our product range 
+
 Our tasks are:
 Carry out exploratory data analysis
 Analyze the product range
